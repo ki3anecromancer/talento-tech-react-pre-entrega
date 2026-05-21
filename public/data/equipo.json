@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luis Hernández",
+        "email": "luishernandez@mail.com",
+        "puesto": "CEO",
+        "imagen": "../images/equipo/man.png"
+    },
+    {
+        "id": 2,
+        "nombre": "María Pristina",
+        "email": "mariapristina@mail.com",
+        "puesto": "CTO",
+        "imagen": "../images/equipo/woman.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Hernán Suárez",
+        "email": "hernansuarez@mail.com",
+        "puesto": "Developer",
+        "imagen": "../images/equipo/hacker.png"
+    }
+]

@@ -1,0 +1,127 @@
+.contenedorTienda {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.tituloMensaje {
+    font-size: 1.25rem;
+    color: var(--color-principal);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.listaProductos {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.tarjetaHorizontal {
+    display: flex;
+    background-color: var(--color-fondo);
+    border: 1px solid #e5e5e5;
+    padding: 1rem;
+    align-items: center;
+    gap: 2rem;
+}
+
+.contenedorImagen {
+    width: 120px;
+    height: 120px;
+    flex-shrink: 0;
+}
+
+.imagenProducto {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: grayscale(20%);
+    border: 1px solid #f0f0f0;
+}
+
+.infoProducto {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.nombre {
+    font-size: 1.1rem;
+    color: var(--color-principal);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.precio {
+    font-size: 1rem;
+    color: var(--color-oscuro);
+    font-weight: 500;
+    margin: 0;
+}
+
+.stock {
+    font-size: 0.8rem;
+    color: var(--color-secundario);
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.estado {
+    text-align: center;
+    padding: 3rem;
+    color: var(--color-acento);
+    font-size: 0.9rem;
+}
+
+.paginacion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e5e5e5;
+}
+
+.infoPagina {
+    font-size: 0.85rem;
+    color: var(--color-acento);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.botonPagina {
+    background-color: var(--color-principal);
+    color: var(--color-fondo);
+    border: 1px solid var(--color-principal);
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.botonPagina:hover:not(:disabled) {
+    background-color: var(--color-fondo);
+    color: var(--color-principal);
+}
+
+.botonPagina:disabled {
+    background-color: var(--color-fondo);
+    color: var(--color-secundario);
+    border-color: #e5e5e5;
+    cursor: not-allowed;
+}
+
+.enlaceTarjeta {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}

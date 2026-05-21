@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "nombre": "MICROFONO LOGITECH YETI ORB RGB BLACK 988-000550",
+        "precio": 98009.96,
+        "descripcion": "Logitech G Yeti Orb es un micrófono para gaming premium con RGB LIGHTSYNC, una cápsula de condensador optimizada para streaming de juegos y preajustes Blue VO!CE que ofrece el mejor rendimiento de audio de su clase y facilidad de uso a través de una simple conexión USB.",
+        "stock": 10,
+        "imagen": "../images/productos/microfono-logitech-yeti-orb-rgb-black-988000550-0.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "MOUSE WIRELESS LOGITECH G309 LIGHTSPEED WHITE 910-007206",
+        "precio": 69539.96,
+        "descripcion": " Conectividad inalámbrica dual flexible mediante LIGHTSPEED y Bluetooth. Cada milisegundo cuenta, y la tecnología inalámbrica LIGHTSPEED proporciona a tu juego una conexión fluida y confiable, para que juegues con la máxima confianza. Juega con tecnología inalámbrica de baja latencia para juegos o cambia al Bluetooth universal para disfrutar una flexibilidad inalámbrica total.",
+        "stock": 12,
+        "imagen": "../images/productos/mouse-wireless-logitech-g309-lightspeed-white-910007206-0.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "TECLADO MECANICO WIRELESS LOGITECH G515 LIGHTSPEED TKL BLACK 920-012423 INGLES",
+        "precio": 147449.96,
+        "descripcion": " Logitech G515 LIGHTSPEED TKL ofrece velocidad, precisión y personalización con un diseño elegante, discreto y sin sección numérica. Este teclado inalámbrico para juegos incluye conectividad trimodal, interruptores mecánicos GL, tapas para teclas PBT de doble disparo, estructura con amortiguación del sonido y LIGHTSYNC RGB.",
+        "stock": 21,
+        "imagen": "../images/productos/teclado-mecanico-wireless-logitech-g515-lightspeed-tkl-black-920012423-ingles-0.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "TECLADO MECANICO WIRELESS LOGITECH G515 LIGHTSPEED TKL WHITE 920-012535 INGLES",
+        "precio": 187630,
+        "descripcion": " Logitech G515 LIGHTSPEED TKL ofrece velocidad, precisión y personalización con un diseño elegante, discreto y sin sección numérica. Este teclado inalámbrico para juegos incluye conectividad trimodal, interruptores mecánicos GL, tapas para teclas PBT de doble disparo, estructura con amortiguación del sonido y LIGHTSYNC RGB.",
+        "stock": 17,
+        "imagen": "../images/productos/teclado-mecanico-wireless-logitech-g515-lightspeed-tkl-white-920012535-ingles-0.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "AURICULAR WIRELESS C/MICROFONO LOGITECH PRO X 2 MAGENTA 981-001274",
+        "precio": 514290.06,
+        "descripcion": "Los auriculares Logitech G Pro X 2 Wireless son unos auriculares inalámbricos para juegos de alta calidad que ofrecen un sonido envolvente, un micrófono de calidad de transmisión y una comodidad duradera. Son una excelente opción para los jugadores que buscan una experiencia de audio inmersiva y de alta calidad.",
+        "stock": 15,
+        "imagen": "../images/productos/auricular-wireless-cmicrofono-logitech-pro-x-2-magenta-981001274-0.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "TECLADO WIRELESS LOGITECH K950 SIGNATURE SLIM GRAPHITE 920-012432",
+        "precio": 97179.97,
+        "descripcion": " Equilibrar el trabajo y las tareas de la vida puede ser un desafío. Signature Slim K950 es un teclado que te ayuda a gestionarlo todo poniendo un poco de magia en tus manos. Cambia fácilmente entre tus dispositivos y personaliza tus teclas para que puedas hacer lo que te pidan hoy.",
+        "stock": 8,
+        "imagen": "../images/productos/teclado-wireless-logitech-k950-signature-slim-graphite-920012432-0.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "MOUSE GAMER WIRELESS LOGITECH G PRO X SUPERLIGHT 2 WHITE 910-006637",
+        "precio": 193149.96,
+        "descripcion": " Nuestra exclusiva tecnología de interruptor óptico-mecánico híbrido combina la velocidad y la fiabilidad de los interruptores ópticos con el bajo consumo de energía y la agradable sensación de clic de un microinterruptor galvánico (o mecánico) tradicional. Obtenga el rendimiento que necesitan los profesionales sin el impacto en la duración de la batería.",
+        "stock": 5,
+        "imagen": "../images/productos/mouse-gamer-wireless-logitech-g-pro-x-superlight-2-white-910006637-0.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "MOUSEPAD LOGITECH G840 XL 943-000776",
+        "precio": 75400.01,
+        "descripcion": "Superficie optimizada para el desempeño: Proporciona uniformidad y precisión máximas con mouse para juegos, ofreciendo imágenes de sensor óptimas para convertir el movimiento del mouse en movimiento del cursor incluso a altas velocidades.",
+        "stock": 20,
+        "imagen": "../images/productos/mousepad-logitech-g840-xl-943000776-0.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "AURICULAR WIRELESS C/MIC LOGITECH G ASTRO A50X WHITE PS/XBOX/PC/MAC 939-002132",
+        "precio": 789210.01,
+        "descripcion": "El futuro del gaming inalámbrico ha llegado. Conecta hasta 3 dispositivos a la vez (Xbox, PS5 y PC/Mac) y experimenta un sonido envolvente como nunca antes. Los drivers PRO-G GRAPHENE ofrecen una claridad y precisión inigualables, mientras que el micrófono LIGHTSPEED garantiza una comunicación nítida.",
+        "stock": 5,
+        "imagen": "../images/productos/auricular-wireless-cmic-logitech-g-astro-a50x-white-psxboxpcmac-939002132-0.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "MICROFONO RAZER SEIREN V3 CHROMA RGB USB BLACK RZ19-05060100-R3U1",
+        "precio": 230329.96,
+        "descripcion": "Frecuencia de muestreo: 96 kHz",
+        "stock": 15,
+        "imagen": "../images/productos/microfono-razer-seiren-v3-chroma-rgb-usb-black-rz1905060100r3u1-0.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "MOUSE WIRELESS LOGITECH G309 LIGHTSPEED BLACK 910-007198",
+        "precio": 69539.96,
+        "descripcion": " Conectividad inalámbrica dual flexible mediante LIGHTSPEED y Bluetooth. Cada milisegundo cuenta, y la tecnología inalámbrica LIGHTSPEED proporciona a tu juego una conexión fluida y confiable, para que juegues con la máxima confianza. Juega con tecnología inalámbrica de baja latencia para juegos o cambia al Bluetooth universal para disfrutar una flexibilidad inalámbrica total.",
+        "stock": 18,
+        "imagen": "../images/productos/mouse-wireless-logitech-g309-lightspeed-black-910007198-0.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "AURICULAR WIRELESS C/MICROFONO LOGITECH G PRO X WIRELESS 981-000906",
+        "precio": 321930.05,
+        "descripcion": "Los auriculares Logitech G Pro X Wireless son unos auriculares inalámbricos para juegos de alta calidad que ofrecen un sonido envolvente, un micrófono de calidad de transmisión y una comodidad duradera. Son una excelente opción para los jugadores que buscan una experiencia de audio inmersiva y de alta calidad.",
+        "stock": 30,
+        "imagen": "../images/productos/auricular-wireless-cmicrofono-logitech-g-pro-x-wireless-981000906-0.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "MICROFONO RAZER SEIREN V3 MINI QUARTZ PINK RZ19-05050200-R3U1",
+        "precio": 92602.18,
+        "descripcion": "Cuando la calidad del audio marca la diferencia, necesitas un micrófono que esté a la altura de tu voz y tu contenido. El Razer Seiren V3 Mini es la herramienta perfecta para quienes buscan sonido profesional en un formato compacto y elegante. Diseñado específicamente para streamers, podcasters y creadores de contenido, este micrófono USB combina rendimiento de nivel estudio con una configuración sencilla y sin complicaciones.",
+        "stock": 16,
+        "imagen": "../images/productos/microfono-razer-seiren-v3-mini-quartz-pink-rz1905050200r3u1-0.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "TECLADO RAZER HUNTSMAN V3 X TKL ESPAÑOL RZ03-05021700-R311",
+        "precio": 146770.06,
+        "descripcion": "Interruptores: Razer™ Green Mechanical Switch Clickly",
+        "stock": 22,
+        "imagen": "../images/productos/teclado-razer-huntsman-v3-x-tkl-espaol-rz0305021700r311-0.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "MOUSE GAMER WIRELESS CORSAIR M65 RGB ULTRA PERSONALIZABLE CH-9319411-NA2",
+        "precio": 172410.01,
+        "descripcion": " Compatibilidad del mouse: PC o Mac® con un puerto USB 2.0 tipo A | Windows® 10 | macOS® 10.15 o posterior | Conexión a internet para descargar el software iCUE",
+        "stock": 16,
+        "imagen": "../images/productos/mouse-gamer-wireless-corsair-m65-rgb-ultra-personalizable-ch9319411na2-0.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "MICROFONO RAZER SEIREN V3 CHROMA RGB USB WHITE RZ19-05060200-R3U1",
+        "precio": 226820.01,
+        "descripcion": "Cápsulas: Cápsula de condensador de 16 mm",
+        "stock": 15,
+        "imagen": "../images/productos/microfono-razer-seiren-v3-chroma-rgb-usb-white-rz1905060200r3u1-0.jpg"
+    }
+]

@@ -1,0 +1,155 @@
+.contenedorDetalle {
+    display: flex;
+    max-width: 900px;
+    margin: 3rem auto;
+    gap: 3rem;
+    padding: 0 2rem;
+    align-items: center;
+}
+
+.columnaImagen {
+    flex: 1;
+    max-width: 450px;
+}
+
+.imagen {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border: 1px solid #e5e5e5;
+}
+
+.columnaInfo {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.categoria {
+    font-size: 0.75rem;
+    color: var(--color-secundario);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.nombre {
+    font-size: 1.75rem;
+    color: var(--color-principal);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.precio {
+    font-size: 1.35rem;
+    color: var(--color-oscuro);
+    margin: 0;
+    font-weight: 500;
+}
+
+.descripcion {
+    font-size: 0.95rem;
+    color: var(--color-acento);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.stock {
+    font-size: 0.8rem;
+    color: var(--color-secundario);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 1rem;
+}
+
+.estado {
+    text-align: center;
+    padding: 5rem;
+    color: var(--color-acento);
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.accionesCompra {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    max-width: 300px;
+}
+
+.controlCantidad {
+    display: flex;
+    align-items: center;
+    border: 1px solid #e5e5e5;
+    width: fit-content;
+}
+
+.botonContador {
+    background: none;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    color: var(--color-principal);
+}
+
+.botonContador:disabled {
+    color: var(--color-secundario);
+    cursor: not-allowed;
+}
+
+.numeroCantidad {
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 0 1rem;
+    min-width: 20px;
+    text-align: center;
+    color: var(--color-principal);
+}
+
+.botonAgregar {
+    background-color: var(--color-principal);
+    color: var(--color-fondo);
+    border: 1px solid var(--color-principal);
+    padding: 0.8rem 1.5rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.botonAgregar:hover {
+    background-color: var(--color-fondo);
+    color: var(--color-principal);
+}
+
+.sinStock {
+    color: #d9534f;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-top: 1.5rem;
+}
+
+@media (max-width: 768px) {
+    .contenedorDetalle {
+        flex-direction: column;
+        gap: 2rem;
+        margin: 1.5rem auto;
+    }
+
+    .columnaImagen {
+        max-width: 100%;
+    }
+
+    .nombre {
+        font-size: 1.4rem;
+    }
+}

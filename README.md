@@ -1,3 +1,9 @@
+# INFORMACIÓN
+- Este proyecto fue creado con el código provisto en el material del curso y siguiendo las instrucciones de pre-entrega. 
+- No se hizo consumo de API externa, sino que se utilizó un JSON personal como fue sugerido por el docente. 
+- Se ha utilizado IA para la parte visual y de css. 
+- Todo el código escrito en el proyecto es comprendido y no solo un copypaste.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
